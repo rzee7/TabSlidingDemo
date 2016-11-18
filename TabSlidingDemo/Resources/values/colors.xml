@@ -1,0 +1,15 @@
+﻿<resources>
+  <color name="primary">#607D8B</color>
+  <color name="primaryDark">#455A64</color>
+  <color name="accent">#FF5722</color>
+    <!--FF5722-->
+  <color name="window_background">#CFD8DC</color>
+</resources>
+
+<!--<resources>
+  <color name="primary">#08536A</color>
+  <color name="primaryDark">#064A61</color>
+  <color name="accent">#FF5722</color>
+  --><!--FF5722--><!--
+  <color name="window_background">#08536A</color>
+</resources>-->
